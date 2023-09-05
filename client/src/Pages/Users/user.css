@@ -1,0 +1,38 @@
+.handleBtn {
+    margin: 0 5px;
+    font-size: 10px;
+}
+.handleBtn:hover {
+    transition: 0.6s;
+    transform: scale(1.2);
+    background-color: #198754;
+}
+.inforUser:hover {
+    transition: 0.7s;
+    cursor: pointer;
+    background-color: rgb(219, 199, 199)
+}
+.inforUser td {
+    height: 4px;
+    /* width: 160px; */
+    text-align: center;
+    vertical-align: middle;
+}
+.hai {
+    display: none;
+}
+
+@media only screen and (max-width: 375px) {
+    .hai {
+      display: block;
+    }
+    AdminPage {
+        display: none;
+    }
+    .inforUser td {
+        font-size: 10px;
+    }
+  }
+  .edit input {
+    border: 1px solid;
+  }

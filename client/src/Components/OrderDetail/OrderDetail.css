@@ -1,0 +1,9 @@
+.test {
+    width: 1500px;
+    background-color: red;
+}
+.detailProduct td {
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: 1px solid;
+}

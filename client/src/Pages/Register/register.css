@@ -1,0 +1,26 @@
+/* .register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+  border-radius: 12px;
+  height: 400px;
+  min-width: 20%;
+  text-align:center;
+}
+
+.register-title {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.register-error{
+  margin-top:1rem;
+  align-self:center;
+  color:rgb(255, 0, 55);
+}
+.register {
+  box-shadow: rgba(112, 48, 48, 0.2) 0px 60px 40px -7px;
+  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+  height: 100vh;
+} */

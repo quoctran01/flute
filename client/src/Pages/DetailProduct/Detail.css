@@ -1,0 +1,26 @@
+.service {
+    list-style-type: none;
+}
+
+.service span {
+    font-size: 12px;
+    color: #333;
+}
+.service p {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    color: #49b14d;
+}
+.service img {
+    width: 20%;
+}
+.fg {
+    border: 1px solid #f0f0f0;
+}
+
+@media screen and (max-width: 980px) {
+    .gg {
+        display: none;
+    }
+}
