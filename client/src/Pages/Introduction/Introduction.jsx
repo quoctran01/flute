@@ -53,7 +53,7 @@ const Introduction = () => {
   const editor = useEditor({
     extensions: [StarterKit],
     content: `
-          <p>....Phản hồi của bạn về sáo trúc Hải Trần, hãy cho chung tôi biết cảm nghĩ của bạn...</p>
+          <p>....Phản hồi của bạn về sáo trúc Quốc Trần, hãy cho chúng tôi biết cảm nghĩ của bạn...</p>
         `,
     onUpdate: ({ editor }) => {
       const html = editor.getHTML();

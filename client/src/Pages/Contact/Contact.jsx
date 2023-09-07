@@ -49,7 +49,7 @@ export default function ProfilePage() {
                   style={{ width: "150px" }}
                   fluid
                 />
-                <p className="text-muted mb-1">SÁO TRÚC HẢI TRẦN </p>
+                <p className="text-muted mb-1">SÁO TRÚC QUỐC TRẦN </p>
                 <p className="text-muted mb-4">
                   SẴN SÀNG HỖ TRỢ MỌI NGƯỜI CÁC VẤN ĐỀ VỀ SÁO
                 </p>
@@ -65,7 +65,7 @@ export default function ProfilePage() {
             <MDBCard className="mb-4 mb-lg-0">
               <MDBCardBody className="p-0">
                 <MDBCardImage
-                  src="https://res.cloudinary.com/uploadimgvvv/image/upload/v1684289911/kn6dfrm8ntunuwowrrvu.jpg"
+                  src="https://res.cloudinary.com/dprgisfjy/image/upload/v1694091777/Learn_upload/373420290_262397826616349_8610768929651038340_n_uxij4i.jpg"
                   alt="avatar"
                   // className="rounded-circle"
 
@@ -83,7 +83,7 @@ export default function ProfilePage() {
                   </MDBCol>
                   <MDBCol sm="9">
                     <MDBCardText className="text-muted">
-                      Trần Như Hải
+                      Trần Khắc Quốc
                     </MDBCardText>
                   </MDBCol>
                 </MDBRow>
@@ -94,7 +94,7 @@ export default function ProfilePage() {
                   </MDBCol>
                   <MDBCol sm="9">
                     <MDBCardText className="text-muted">
-                      anh123vvv@gmail.com
+                      tkqskyblue37@gmail.com
                     </MDBCardText>
                   </MDBCol>
                 </MDBRow>
@@ -105,10 +105,10 @@ export default function ProfilePage() {
                   </MDBCol>
                   <MDBCol sm="9">
                     <MDBCardText className="text-muted">
-                      (035) 956-8818
+                      0396337880
                     </MDBCardText>
                   </MDBCol>
-                </MDBRow>{" "}
+                </MDBRow>
                 <hr></hr>
                 <MDBRow>
                   <MDBCol sm="3">
@@ -116,7 +116,7 @@ export default function ProfilePage() {
                   </MDBCol>
                   <MDBCol sm="9">
                     <MDBCardText className="text-muted">
-                      Hạ Long-Quảng Ninh
+                      Chiến Thắng, Hà Đông, Hà Nội
                     </MDBCardText>
                   </MDBCol>
                 </MDBRow>
@@ -132,8 +132,8 @@ export default function ProfilePage() {
                         // className="text-primary font-italic me-1"
                         style={{ textAlign: "center", color:"green"}}
                       >
-                        ĐÔI NÉT VỀ SÁO TRÚC HẢI TRẦN
-                      </h2>{" "}
+                        ĐÔI NÉT VỀ SÁO TRÚC QUỐC TRẦN
+                      </h2>
                     </MDBCardText>
                     <MDBCardText className="mb-1" style={{ fontSize: "18px" }}>
                       &nbsp;&nbsp;&nbsp;&nbsp; Ngày nay âm nhạc là một liều
@@ -151,8 +151,8 @@ export default function ProfilePage() {
                       treo, túi đựng sáo ...
                     </MDBCardText>
                     <MDBCardText className="mb-1" style={{ fontSize: "18px" }}>
-                      &nbsp;&nbsp;&nbsp;&nbsp; Nếu bạn là một người đam mê sáo trúc nhưng chưa có kinh nghiệm trong việc chọn sáo hay chơi sáo. Hãy liên hệ ngay với sáo trúc Hải Trần.
-                      Với phương trâm TẬN TÂM - UY TÍN - TRÁCH NHIỆM. Sáo trúc Hải Trần sẽ đem lại cho bạn những giá trị hữu ích nhất.
+                      &nbsp;&nbsp;&nbsp;&nbsp; Nếu bạn là một người đam mê sáo trúc nhưng chưa có kinh nghiệm trong việc chọn sáo hay chơi sáo. Hãy liên hệ ngay với sáo trúc Quốc Trần.
+                      Với phương trâm TẬN TÂM - UY TÍN - TRÁCH NHIỆM. Sáo trúc Quốc Trần sẽ đem lại cho bạn những giá trị hữu ích nhất.
                     </MDBCardText>
                   </MDBCardBody>
                 </MDBCard>

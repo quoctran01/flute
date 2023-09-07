@@ -7,7 +7,7 @@ import {
   MDBIcon,
 } from "mdb-react-ui-kit";
 import { Facebook, Instagram, Youtube } from "react-bootstrap-icons";
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 export default function Footer() {
   return (
     <MDBFooter bgColor="light" className="text-center text-lg-start text-muted">
@@ -158,12 +158,13 @@ export default function Footer() {
         className="text-center p-4"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
       >
-        <NavLink
+        <Link
           className="text-reset fw-bold"
-          href="https://www.facebook.com/trannhu.hai.3"
+          to="https://www.facebook.com/trankhacquoc2k1/"
+          target="_blank"
         >
-          DESIGN BY: <b>Hai Tran</b>
-        </NavLink>
+          DESIGN BY: <b>Quoc Tran</b>
+        </Link>
       </div>
     </MDBFooter>
   );
